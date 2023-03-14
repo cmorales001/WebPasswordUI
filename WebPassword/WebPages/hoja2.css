@@ -1,0 +1,41 @@
+﻿body {
+    body
+
+{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #f2f2f2;
+}
+
+#container {
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.form-check {
+    margin-bottom: 10px;
+}
+
+#btnGenerate, #btnCopy {
+    margin-right: 10px;
+}
+
+#txtGeneratedPassword {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #f2f2f2;
+}
+}
